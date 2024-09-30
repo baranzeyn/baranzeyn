@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently interning at **Yazılım.xyz**
 
-- 🌱 I’m currently learning **Swift, SwiftUI, RestAPI**
+- 🌱 I’m currently learning **Swift, SwiftUI**
 
 - 📫 How to reach me **baranzeyn226@gmail.com**
 
