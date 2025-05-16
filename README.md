@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently interning at **Probel**
 
-- 🌱 I’m currently learning **C# , .NET , PL/SQL**
+- 🌱 I’m currently learning **Java, Android, C# , PL/SQL**
 
 - 📫 How to reach me **baranzeyn226@gmail.com**
 
