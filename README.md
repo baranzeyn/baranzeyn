@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working as a **Full-Stack Developer** at **Probel A.Ş.**, where I build scalable enterprise web and mobile applications using **.NET MVC, C#, and Kotlin**.
 
-- 🎓 I’m pursuing a **Master's Degree in Compture Engineering** at **Dokuz Eylul University**.
+- 🎓 I’m pursuing a **Master's Degree in Computer Engineering** at **Dokuz Eylul University**.
 
 - 🌱 I gracefully bridge two technical worlds: developing robust backend architectures and real-time synchronization systems for work, while building AI-driven systems (**LLMs, RAG, BERTurk**) and advanced Data Mining pipelines (**Web Scraping, SQLite**) using **Python** for my academic projects.
 
